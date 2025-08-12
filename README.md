@@ -13,4 +13,4 @@ Perfect for sound classification projects where you need to remove duplicates, s
 
 ## Quick Start (One-Liner)
 ```bash
-git clone <YOUR_REPO_URL> audio-tool && cd audio-tool && python -m venv .venv && source .venv/bin/activate && mkdir -p raw_wavs split_wavs && python converter.py
+git clone <https://github.com/haanhtuandev/audio-split-tool.git> audio-tool && cd audio-tool && python -m venv .venv && source .venv/bin/activate && mkdir -p raw_wavs split_wavs && python converter.py
